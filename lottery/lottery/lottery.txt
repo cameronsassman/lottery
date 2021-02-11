@@ -1,0 +1,4 @@
+Name:qw
+Surname:qwe
+Age:134
+amount recieved: R0
